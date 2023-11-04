@@ -8,6 +8,8 @@ I am a Ph.D. student in the Graduate Program in Dynamical Neuroscience at the Un
 
 * Parker PRL\*, **Martins DM\***, Leonard ESP\*, Casey NM, Sharp SL, Abe ETT, Smear MC, Yates JL, Mitchell JF, \& Niell CM. 2022. (2022). A dynamic sequence of visual processing initiated by gaze shifts. *bioRxiv* <https://doi.org/10.1101/2022.08.23.504847>
 
+\* authors contributed equally
+
 # Publications
 
 * Parker PRL\*, Abe ETT\*, Leonard ESP, **Martins DM**, \& Niell CM. (2022). Joint coding of visual input and eye/head position in V1 of freely moving mice. *Neuron* 110, 1-10. <https://doi.org/10.1016/j.neuron.2022.08.029>
